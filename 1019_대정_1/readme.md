@@ -1,4 +1,4 @@
-테스트용으로 진행했습니다. 
+
 파일을 불러오는 경로는 구글의 드라이브에 위치해있는데 "나의 드라이브"에서 nlp_contest라는 폴더를 만들고 진행했습니다. 
 혹시 다운 받아서 사용하실거면 경로부분만 확인해주시면 됩니다. 
 
@@ -9,3 +9,5 @@
 두번째 파이썬 파일은 3에포크로 실행. 리더보드 0.6 달성했습니다.
 
 모델 : kobert
+
+<img width="1444" height="816" alt="image" src="https://github.com/user-attachments/assets/5c379d2f-a6f5-4f30-9f75-f9ab6d86ab3c" />
