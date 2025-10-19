@@ -11,3 +11,5 @@
 모델 : kobert
 
 <img width="1444" height="816" alt="image" src="https://github.com/user-attachments/assets/5c379d2f-a6f5-4f30-9f75-f9ab6d86ab3c" />
+
+<img width="722" height="554" alt="image" src="https://github.com/user-attachments/assets/f564a053-d77f-469e-a982-87cf2e0c2b8e" />
